@@ -1,2 +1,2 @@
 # Semesterproject-F25
-Semesterproject 1 - Software and robots 
+Semesterproject 2 - Software and robots 
